@@ -22,8 +22,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/healthcare-assistant-api.git
-cd healthcare-assistant-api
+git clone https://github.com/mouaad11/healthcare-chatbot-api-gemini.git
+cd chatbot
 ```
 
 2. Create and activate a virtual environment:
